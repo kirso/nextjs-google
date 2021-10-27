@@ -6,9 +6,9 @@
 
 This web app is a clone of Google search engine built with `Next.js`, `Tailwind`, `Google Search API`, `Hero Icons` and hosted on `Vercel`.
 
-[Link to a blog post](https://www.kirillso.com/)
+[Blog post link](https://www.kirillso.com/)
 
-[Link to the project](https://google-nextjs-kirill.vercel.app/)
+[Project link](https://google-nextjs-kirill.vercel.app/)
 
 ## How I worked on this project
 
